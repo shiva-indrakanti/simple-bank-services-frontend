@@ -1,0 +1,53 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.innermain{
+    height: 400px;
+    width: 500px;
+    border: 5px solid #3B3B3B;
+    border-radius: 20px;
+    box-shadow: inset 0 0 35px 5px rgba(150, 135, 135, 0.25), inset 0 2px 1px 1px rgba(82, 75, 75, 0.9), inset 0 -2px 1px rgba(0, 0, 0, 0.25);
+}
+h2 {
+    color: goldenrod;
+    text-align: center;
+}
+.details{
+    height: 200px;
+    width: 400px;
+    border: 4px solid navy;
+    margin-left: 45px;
+    box-shadow: inset 0 0 35px 5px rgba(43, 11, 102, 0.25), inset 0 2px 1px 1px rgba(16, 8, 85, 0.9), inset 0 -2px 1px rgba(47, 194, 204, 0.25);
+}
+
+#mobile{
+    margin-left: 80px;
+    color: goldenrod;
+}
+#bank {
+    margin-left: 80px;
+    color: goldenrod;
+}
+#balance{
+    margin-left: 80px;
+    color: goldenrod;
+}
+#number{
+    margin-left: 80px;
+    color: goldenrod;
+}
+#name{
+    margin-left: 80px;
+    color: goldenrod;
+}
+.accountbutton{
+    text-align: center;
+    margin-left: 180px;
+    margin-top: 20px;
+}
+#buttonlink{
+    text-decoration: none;
+}

@@ -1,0 +1,43 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.homeinnermain {
+    height: 300px;
+    width: 500px;
+    border: 5px solid #3B3B3B;
+    border-radius: 20px;
+    box-shadow: inset 0 0 35px 5px rgba(150, 135, 135, 0.25), inset 0 2px 1px 1px rgba(82, 75, 75, 0.9), inset 0 -2px 1px rgba(0, 0, 0, 0.25);
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: white;
+    margin-left: 80px;
+}
+
+.button {
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+background-color:goldenrod;
+color: blue;
+height: 40px;
+width: 90px;
+border-radius: 30px;font-size: 15px;
+}
+
+#link{
+    text-decoration: none;
+}

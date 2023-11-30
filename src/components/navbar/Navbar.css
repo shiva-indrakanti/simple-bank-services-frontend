@@ -1,0 +1,38 @@
+*{
+    margin-left: 5px;
+}
+.navMain{
+    width: 98%;
+    height: 50px;
+    border:5px solid#3B3B3B;
+    background-color: #FFD700;
+    border-radius: 5px;
+}
+.navUL{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    position: fixed;
+}
+.navUL li{
+    padding-left: 70px;
+}
+.navUL li #link{
+    color: black;
+    text-decoration: none;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    float: right; 
+   display: flex;
+   justify-content: center;
+   align-items:center;
+   background-color: #202A44;
+}
+.logo h2{
+    text-shadow: 2px 2px rgb(250, 249, 241);
+    text-align: center;
+    color:#FFD700;    
+}
